@@ -1,4 +1,4 @@
-# 分享
+# zhixc的博客
 
 [01.常用脚本](md/01.常用脚本.md)
 
@@ -30,7 +30,7 @@
 
 [14.github加速](md/14.github加速.md)
 
-[15.自动签到脚本](md/15.自动签到脚本.md)
+[15.auto checkin](md/15.auto_checkin.md)
 
 [miui](md/miui.md)
 

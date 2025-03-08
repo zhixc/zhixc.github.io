@@ -10,8 +10,6 @@
 
 [04-Mac软件](md/04-.app_mac.md)
 
-[05.GPT](md/05.chatGPT.md)
-
 [06.游戏](md/06.game.md)
 
 [07.电子书](md/07.ebook.md)
@@ -33,6 +31,4 @@
 [15.auto checkin](md/15.auto_checkin.md)
 
 [miui](md/miui.md)
-
-[壁纸](md/wallpaper.md)
 

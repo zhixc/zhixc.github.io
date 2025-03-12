@@ -2,6 +2,18 @@
 https://xiaomirom.com
 
 
+[Redmi 9红米9一键刷入面具22.1版本 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1421027-1-1.html)
+
+miflash下载，不要用2019年后的版本，有bug
+
+    文件名称：MiFlash2018-5-28-0.zip
+    文件大小：50.0 MB
+    发布时间：2018-06-01 14:31:32
+    MD5指纹：87c313381db7a7320ca6027c08f6829f
+    更新内容：修复已知错误，改善稳定性
+    下载地址：https://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip
+    备用下载：https://file.miuiver.com/d/MiFlash/MiFlash2018-5-28-0.zip
+
 ### macOS 使用 adb 给手机刷 recovery
 
 先下载 adb 命令行工具

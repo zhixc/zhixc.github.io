@@ -1,4 +1,4 @@
-# 分享
+# zhixc的博客
 
 [01.常用脚本](md/01.常用脚本.md)
 
@@ -9,8 +9,6 @@
 [04.win软件](md/04.app_win.md)
 
 [04-Mac软件](md/04-.app_mac.md)
-
-[05.GPT](md/05.chatGPT.md)
 
 [06.游戏](md/06.game.md)
 
@@ -30,9 +28,7 @@
 
 [14.github加速](md/14.github加速.md)
 
-[15.自动签到脚本](md/15.自动签到脚本.md)
+[15.auto checkin](md/15.auto_checkin.md)
 
 [miui](md/miui.md)
-
-[壁纸](md/wallpaper.md)
 

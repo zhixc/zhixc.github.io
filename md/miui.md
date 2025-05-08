@@ -1,6 +1,8 @@
 ## MIUI的ROM下载
 https://xiaomirom.com
 
+https://roms.miuier.com/zh-cn/devices/lancelot/
+
 
 [Redmi 9红米9一键刷入面具22.1版本 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1421027-1-1.html)
 
@@ -42,7 +44,7 @@ miflash下载，不要用2019年后的版本，有bug
 
 
 
-[不登陆小米账号启用 MIUI 的 ADB 调试（安全设置）和 ADB 应用安装 - 哔哩哔哩](https://www.bilibili.com/read/cv21517358/)
+[不登陆小米账号启用 MIUI 的 ADB 调试（安全设置）和 ADB 应用安装（需 Root） - 知乎](https://zhuanlan.zhihu.com/p/603628922)
 
 ```txt
     <boolean name="permcenter_install_intercept_enabled" value="false" />

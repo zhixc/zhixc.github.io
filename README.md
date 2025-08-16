@@ -29,19 +29,19 @@ arichive
 
 [FlClash](https://github.com/chen08209/FlClash)
 - 支持 yml / yaml 等订阅
-- v0.8.80，要求 安卓 5.0 以上，macOS 10.14 可用，win10 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.80)
-  - [安卓版 FlClash-0.8.80-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-android-armeabi-v7a.apk)
-  - [安卓版 FlClash-0.8.80-android-armeabi-v7a.apk 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-android-armeabi-v7a.apk)
-  - [安卓版 FlClash-0.8.80-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-android-arm64-v8a.apk)
-  - [安卓版 FlClash-0.8.80-android-arm64-v8a.apk 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-android-arm64-v8a.apk)
-  - [macOS版 intel cpu 版 FlClash-0.8.80-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-macos-amd64.dmg)
-  - [macOS版 intel cpu 版 FlClash-0.8.80-macos-amd64.dmg 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-macos-amd64.dmg)
-  - [macOS版 M 芯片 arm 架构版 FlClash-0.8.80-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-macos-arm64.dmg)
-  - [macOS版 M 芯片 arm 架构版 FlClash-0.8.80-macos-arm64.dmg 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-macos-arm64.dmg)
-  - [windows版 FlClash-0.8.80-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-windows-amd64-setup.exe)
-  - [windows版 FlClash-0.8.80-windows-amd64-setup.exe 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-windows-amd64-setup.exe)
-  - [windows版 FlClash-0.8.80-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-windows-amd64.zip)
-  - [windows版 FlClash-0.8.80-windows-amd64.zip 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-windows-amd64.zip)
+- v0.8.87，要求 安卓 5.0 以上，macOS 10.14 可用，win10 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.87)
+  - [安卓版 FlClash-0.8.87-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-android-armeabi-v7a.apk)
+  - [安卓版 FlClash-0.8.87-android-armeabi-v7a.apk 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-android-armeabi-v7a.apk)
+  - [安卓版 FlClash-0.8.87-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-android-arm64-v8a.apk)
+  - [安卓版 FlClash-0.8.87-android-arm64-v8a.apk 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-android-arm64-v8a.apk)
+  - [macOS版 intel cpu 版 FlClash-0.8.87-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-macos-amd64.dmg)
+  - [macOS版 intel cpu 版 FlClash-0.8.87-macos-amd64.dmg 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-macos-amd64.dmg)
+  - [macOS版 M 芯片 arm 架构版 FlClash-0.8.87-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-macos-arm64.dmg)
+  - [macOS版 M 芯片 arm 架构版 FlClash-0.8.87-macos-arm64.dmg 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-macos-arm64.dmg)
+  - [windows版 FlClash-0.8.87-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-windows-amd64-setup.exe)
+  - [windows版 FlClash-0.8.87-windows-amd64-setup.exe 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-windows-amd64-setup.exe)
+  - [windows版 FlClash-0.8.87-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-windows-amd64.zip)
+  - [windows版 FlClash-0.8.87-windows-amd64.zip 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-windows-amd64.zip)
 
 [1DM+](https://www.yxssp.com/23740.html)
 - 这个软件支持多线程下载，可以嗅探网页的 m3u8 视频，然后下载合并转码成 mp4
@@ -76,14 +76,10 @@ arichive
     - [安装](https://update.greasyfork.org/scripts/24204/Picviewer%20CE%2B.user.js)
 - [github增强 高速下载](https://greasyfork.org/zh-CN/scripts/412245)
     - [安装](https://update.greasyfork.org/scripts/412245/Github%20%E5%A2%9E%E5%BC%BA%20-%20%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD.user.js)
-- [解除CSDN登录复制](https://greasyfork.org/zh-CN/scripts/505207-解除csdn登录复制)
-    - [安装](https://update.greasyfork.org/scripts/505207/解除CSDN登录复制.user.js)
-- [123 云盘会员青春版](https://greasyfork.org/zh-CN/scripts/513528-123-云盘会员青春版)
-    - [安装](https://update.greasyfork.org/scripts/513528/123%20云盘会员青春版.user.js)
+- [CSDN广告完全过滤 免登录 个性化排版 最强老牌脚本 持续更新](https://greasyfork.org/zh-CN/scripts/378351-csdngreener-csdn广告完全过滤-免登录-个性化排版-最强老牌脚本-持续更新)
+    - [安装](https://update.greasyfork.org/scripts/378351/%E3%80%8CCSDNGreener%E3%80%8D%F0%9F%8D%83CSDN%E5%B9%BF%E5%91%8A%E5%AE%8C%E5%85%A8%E8%BF%87%E6%BB%A4%7C%E5%85%8D%E7%99%BB%E5%BD%95%7C%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%92%E7%89%88%7C%E6%9C%80%E5%BC%BA%E8%80%81%E7%89%8C%E8%84%9A%E6%9C%AC%7C%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0.user.js)
 - [贴吧页面精简](https://greasyfork.org/zh-CN/scripts/23687-贴吧页面精简)
     - [安装](https://update.greasyfork.org/scripts/23687/贴吧页面精简.user.js)
-- [自动展开](https://greasyfork.org/zh-CN/scripts/438656-自动展开)
-    - [安装](https://update.greasyfork.org/scripts/438656/自动展开.user.js)
 
 B站优化
 - [bilibili-在未登录的情况下自动并无限试用最高画质](https://greasyfork.org/zh-CN/scripts/467511-bilibili-在未登录的情况下自动并无限试用最高画质)
@@ -203,7 +199,7 @@ CRC32: A3080299
 ### 游戏资源
 [Bloody Spell BUNDLE By Elong Games](https://lewdgames.to/bloody-spell-bundle-elong-games/)
 
-[Ninja Gaiden Master Collection 1, 2, 3 PC Download](https://www.4fnet.org/ninja-gaiden-master-collection-pc-download/)
+[https://www.4fnet.org/](https://www.4fnet.org/)
 
 [The Genesis Order V.39084 by NLT](https://nlt.itch.io/the-genesis-order)
 
@@ -238,8 +234,6 @@ dlfox
 IGG game打包分享
 
 [LIST GAME « IGGGAMES](https://igg-games.com/list-9163969989-game.html)
-
-[Pascal's Wager: Definitive Edition Free Download (v1.2.5) « IGGGAMES](https://igg-games.com/pascals-wager-definitive-edition-free-708223437-download.html)
 
 [lust-n-dead](https://igg-games.com/lust-n-dead-%f0%9f%94%9e-free-download.html)
 
@@ -305,11 +299,8 @@ pycharm
 Windows iso原版镜像下载
 - 提示：安装一下迅雷，用迅雷下载 ed2k 开头的链接吧，下载速度比较快
 - [MSDN - 山己几子木](https://msdn.sjjzm.com/)
-- [imsdn](https://www.imsdn.cn/)
 
 [多版本adobe flash player离线独立播放器](https://www.52pojie.cn/thread-1826183-1-1.html)
-
-[Windows更新暂停器 v1.0.0.0](https://www.52pojie.cn/thread-2022754-1-3.html)
 
 [adobe系列直接下载](https://one.zhuye.xyz/Professional/Adobe/)
 
@@ -317,15 +308,9 @@ Windows iso原版镜像下载
 
 [nihility jet](https://www.nihility.cn/2025/01/idea-patch-usage/)
 
-[winrar烈火](https://www.xiaodao1.com/i-wz-8920.html)
-
-[迅雷11 v12.1.7.2822 SVIP绿色版](https://www.xiaodao1.com/i-wz-12316.html)
+[迅雷 v12.1.7.2822 绿色版](https://www.xiaodao1.com/i-wz-12316.html)
 
 [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-
-[KMS_VL_ALL_AIO v52 CN](https://www.xiaodao1.com/i-wz-9991.html)
-
-[PC搜狗输入法v15.4.0.1862精简版](https://www.xiaodao1.com/i-wz-9561.html)
 
 [360驱动大师v2.0.0.2050纯净版](https://www.xiaodao1.com/i-wz-9567.html)
 

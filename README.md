@@ -47,6 +47,8 @@ arichive
 - 这个软件支持多线程下载，可以嗅探网页的 m3u8 视频，然后下载合并转码成 mp4
 
 [TV](https://github.com/FongMi/TV)
+- 颜色样式修改pr: [pull/254](https://github.com/FongMi/TV/pull/254)
+- [v2.2.0](https://github.com/watson1982/TV) [v2.2.0](https://github.com/qlql765/TV) [v2.2.5](https://github.com/TaoXG/FongMi-TV)
 - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
 - 应用商店代码编写参考：[watson1982/CatVodSpider](https://github.com/watson1982/CatVodSpider/blob/main/json/market.json)
 - 配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
@@ -59,21 +61,12 @@ arichive
 ### 记录一些常用的脚本
 脚本来源：
 - [greasyfork](https://greasyfork.org)
-- [人民的勤务员编写的脚本](https://github.com/ChinaGodMan/UserScripts)
-
-【移动端专用】
-- [网页写入剪辑版授权管理器](https://greasyfork.org/zh-CN/scripts/497403-web-page-writing-clip-version-authorization-manager)
-    - [安装](https://fastly.jsdelivr.net/gh/zhixc/zhixc.github.io@master/js/writing-clip-authorization-manager.user.js)
-- [滚动条-新](https://greasyfork.org/zh-CN/scripts/465037-%E6%BB%9A%E5%8A%A8%E6%9D%A1-%E6%96%B0)
-    - [安装](https://fastly.jsdelivr.net/gh/zhixc/zhixc.github.io@master/js/gun.user.js)
-- [m3u8视频侦测下载器【自动嗅探】](https://greasyfork.org/zh-CN/scripts/449581-m3u8%E8%A7%86%E9%A2%91%E4%BE%A6%E6%B5%8B%E4%B8%8B%E8%BD%BD%E5%99%A8-%E8%87%AA%E5%8A%A8%E5%97%85%E6%8E%A2)
-    - [安装](https://update.greasyfork.org/scripts/449581/m3u8%E8%A7%86%E9%A2%91%E4%BE%A6%E6%B5%8B%E4%B8%8B%E8%BD%BD%E5%99%A8%E3%80%90%E8%87%AA%E5%8A%A8%E5%97%85%E6%8E%A2%E3%80%91.user.js)
 
 通用脚本
+- [m3u8视频侦测下载器【自动嗅探】](https://greasyfork.org/zh-CN/scripts/449581-m3u8%E8%A7%86%E9%A2%91%E4%BE%A6%E6%B5%8B%E4%B8%8B%E8%BD%BD%E5%99%A8-%E8%87%AA%E5%8A%A8%E5%97%85%E6%8E%A2)
+    - [安装](https://update.greasyfork.org/scripts/449581/m3u8%E8%A7%86%E9%A2%91%E4%BE%A6%E6%B5%8B%E4%B8%8B%E8%BD%BD%E5%99%A8%E3%80%90%E8%87%AA%E5%8A%A8%E5%97%85%E6%8E%A2%E3%80%91.user.js)
 - [东方永页机【强烈推荐、神器】](https://greasyfork.org/zh-CN/scripts/438684-pagetual)
     - [安装](https://update.greasyfork.org/scripts/438684/Pagetual.user.js)
-- [Picviewer CE+](https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce)
-    - [安装](https://update.greasyfork.org/scripts/24204/Picviewer%20CE%2B.user.js)
 - [github增强 高速下载](https://greasyfork.org/zh-CN/scripts/412245)
     - [安装](https://update.greasyfork.org/scripts/412245/Github%20%E5%A2%9E%E5%BC%BA%20-%20%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD.user.js)
 - [CSDN广告完全过滤 免登录 个性化排版 最强老牌脚本 持续更新](https://greasyfork.org/zh-CN/scripts/378351-csdngreener-csdn广告完全过滤-免登录-个性化排版-最强老牌脚本-持续更新)
@@ -107,8 +100,6 @@ raw 文件加速例子：
 
 Github raw、zip、clone、release 文件加速
 - [https://ghproxy.net/](https://ghproxy.net/)
-
-- [https://github.moeyy.xyz/](https://github.moeyy.xyz/)
 
 - [https://github.akams.cn/](https://github.akams.cn/)
 

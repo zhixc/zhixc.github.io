@@ -1,7 +1,6 @@
 ## zhixc的博客
 ### 资讯
 - 不死鸟分享为王
-- 新方圆小棉袄
 - 阿虚的储物间
 
 ### 安卓app
@@ -116,7 +115,6 @@ Github raw、zip、clone、release 文件加速
 
 ### 各类教程
 [小刀娱乐网](https://www.x6g.com)
-  - [编程视频教程](https://www.x6g.com/html/21.html)
   - flutter
     - [小码哥Flutter从入门到实战](https://www.x6g.com/i-wz-10924.html)
     - [Flutter高级项目实战视频课程](https://www.x6g.com/i-wz-17894.html)
@@ -140,51 +138,19 @@ Github raw、zip、clone、release 文件加速
     - [linux C/C++ —码农有道教程](https://www.x6g.com/i-wz-24741.html)
   - Python
     - [Python企业级全技术栈开发](https://www.x6g.com/i-wz-15886.html)
-  - Go
-    - [赵珊珊Go语言汇编视频课程](https://www.x6g.com/i-wz-25638.html)
-  - 其他
-    - [百战大厂算法特训班视频课程](https://www.x6g.com/i-wz-25029.html)
   - 前端
     - [某马前端V8.0架构视频课程](https://www.x6g.com/i-wz-23138.html)
 
 [白无常c4d全套教程](https://www.52pojie.cn/thread-1622744-1-1.html)
 
-资源名称:虎课网C4D软件系列课程
-关键词:虎 课网 C4D 软件 系列 课程 虎课网C4D软件系列课程
-
-教程介绍
-讲解C4D从0基础到精通，课程涵盖C4D的多边形建模，材质灯光，运动图形，效果器，并有实例教学。
-学习地址
-天翼：https://cloud.189.cn/t/beYvymBj6Jve
-微云：https://share.weiyun.com/AmFnBGt5
-UC：https://www.yun.cn/s/343fb51b17294d41a443fbd85a2f8981
-百度：https://pan.baidu.com/s/1qTDRLEB2q7RYCabpevCIEQ
-文件信息
-文件大小: 3271360020 字节
-MD5: 980A005CD9C1C83471759B166253D2D7
-SHA1: DF4DC851E4474234E9EB64B5E2B62E901099F884
-CRC32: A3080299
-
-[若水大佬的教程 2018最新kotlin项目实战 (手机影音、黑马外卖等)](https://www.bilibili.com/video/BV16t411C7j2/)
-
 --- 
 
 ### 游戏资源
-[Bloody Spell BUNDLE By Elong Games](https://lewdgames.to/bloody-spell-bundle-elong-games/)
-
-[https://www.4fnet.org/](https://www.4fnet.org/)
-
-[The Genesis Order V.39084 by NLT](https://nlt.itch.io/the-genesis-order)
-
-[The Genesis Order - dikgames](https://dikgames.com/the-genesis-order/)
-
 [GOG Games](https://gog-games.to/)
 
 [gamedrive](https://gamedrive.org/)
 
 [pdalife](https://pdalife.com/)
-
-[steamrip](https://steamrip.com/)
 
 [skidrowreloaded](https://www.skidrowreloaded.com/)
 

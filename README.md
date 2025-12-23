@@ -7,7 +7,7 @@
 [甲壳虫ADB助手](https://github.com/didjdk/adbhelper)
 - 闭源免费软件
 - 用于在局域网内连接电视adb后，给电视安装软件，比较方便，不用搞个U盘去装。
-- [apk_1.3.1 下载](https://ghproxy.cfd/https://github.com/didjdk/adbhelper/releases/download/v1.3.1/adbhelper_v1.3.1.apk)
+- [apk_1.3.1 加速下载](https://wget.la/https://github.com/didjdk/adbhelper/releases/download/v1.3.1/adbhelper_v1.3.1.apk)
 
 x-plore
 - 我主要用于开无线网络局域网文件共享，传文件用
@@ -23,23 +23,11 @@ x-plore
 
 [夏暖i 资源网盘](http://xianuani.ysepan.com/)
 
-- [安卓pc天马3-5-正式版-复古模拟器](https://haohe.fun/2022/07/安卓pc天马3-5-正式版-复古模拟器/)
-
 [FlClash](https://github.com/chen08209/FlClash)
 - 支持 yml / yaml 等订阅
-- v0.8.90，要求 安卓 5.0 以上，macOS 10.14 可用，win10 可用，[发布地址](https://github.com/chen08209/FlClash/releases/tag/v0.8.90)
-  - [安卓版 FlClash-0.8.90-android-armeabi-v7a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-android-armeabi-v7a.apk)
-  - [安卓版 FlClash-0.8.90-android-armeabi-v7a.apk 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-android-armeabi-v7a.apk)
-  - [安卓版 FlClash-0.8.90-android-arm64-v8a.apk 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-android-arm64-v8a.apk)
-  - [安卓版 FlClash-0.8.90-android-arm64-v8a.apk 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-android-arm64-v8a.apk)
-  - [macOS版 intel cpu 版 FlClash-0.8.90-macos-amd64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-macos-amd64.dmg)
-  - [macOS版 intel cpu 版 FlClash-0.8.90-macos-amd64.dmg 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-macos-amd64.dmg)
-  - [macOS版 M 芯片 arm 架构版 FlClash-0.8.90-macos-arm64.dmg 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-macos-arm64.dmg)
-  - [macOS版 M 芯片 arm 架构版 FlClash-0.8.90-macos-arm64.dmg 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-macos-arm64.dmg)
-  - [windows版 FlClash-0.8.90-windows-amd64-setup.exe 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-windows-amd64-setup.exe)
-  - [windows版 FlClash-0.8.90-windows-amd64-setup.exe 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-windows-amd64-setup.exe)
-  - [windows版 FlClash-0.8.90-windows-amd64.zip 下载](https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-windows-amd64.zip)
-  - [windows版 FlClash-0.8.90-windows-amd64.zip 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.90/FlClash-0.8.90-windows-amd64.zip)
+- v0.8.91，要求 安卓 5.0 以上，win10 可用，macOS_10.14不可用(启动会闪退)
+  - [安卓版 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-android-arm64-v8a.apk)
+  - [windows版 加速下载](https://tvv.tw/https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-windows-amd64.zip)
 
 1DM+
 - 这个软件支持多线程下载，可以嗅探网页的 m3u8 视频，然后下载合并转码成 mp4
@@ -125,19 +113,12 @@ Github raw、zip、clone、release 文件加速
     - [Android安卓逆向工程师](https://www.x6g.com/i-wz-14217.html)
     - [通往Android的神奇之旅](https://www.x6g.com/i-wz-14203.html)
     - [Android学习项目入行必备](https://www.x6g.com/i-wz-13457.html)
-  - Kotlin
-    - [2020新版Kotlin从入门到精通](https://www.x6g.com/i-wz-12248.html)
-    - [Kotlin零基础入门到进阶实战](https://www.x6g.com/i-wz-12218.html)
-    - [深度讲解Kotlin特性与框架设计](https://www.x6g.com/i-wz-25049.html)
-    - [Kotlin+Jetpack实战从入门到精通](https://www.x6g.com/i-wz-14148.html)
   - C / C++
     - [2023千峰C++语言汇编课程](https://www.x6g.com/i-wz-25239.html)
     - [2023尚硅谷C++105集视频课程](https://www.x6g.com/i-wz-25110.html)
     - [C++从0到1系统精讲项目开发](https://www.x6g.com/i-wz-23377.html)
     - [爱编程大炳 C++设计模式课](https://www.x6g.com/i-wz-24629.html)
     - [linux C/C++ —码农有道教程](https://www.x6g.com/i-wz-24741.html)
-  - Python
-    - [Python企业级全技术栈开发](https://www.x6g.com/i-wz-15886.html)
   - 前端
     - [某马前端V8.0架构视频课程](https://www.x6g.com/i-wz-23138.html)
 
@@ -192,28 +173,30 @@ fitgirl封装
 
 --- 
 
-注意：JavaScript/TypeScript 等语言开发的ui软件兼容性极差，性能特别糟糕，慎用。这类软件要么内置浏览器内核，体积臃肿，要么要求系统本身自带非常新的内核
-
-兼容性极差的名单：Karing(flutter框架)不支持macOS 11、macOS 10.15、macOS 10.14；
-GUI.for.SingBox / GUI.for.Clash(TypeScript开发)不支持macOS 11、macOS 10.15、macOS 10.14
-Clash Verge rev(TypeScript开发)不支持macOS 11、macOS 10.15、macOS 10.14
-
-恶臭的框架：tauri、Eletron
 
 ### Mac软件
-[macwk](https://macwk.com)
-
 [appstorrent](https://appstorrent.ru)
+
+clashXPro
+- [ClashXPro.dmg v1.97.0.4](https://tvv.tw/https://github.com/clashdownload/ClashX_Pro/releases/download/1.97.0.4/ClashXPro.dmg)
+- [ClashX-Pro.dmg v1.118.0](https://tvv.tw/https://github.com/bannedbook/ClashX/releases/download/1.118.0/ClashX-Pro.dmg)
+
+[Ruflix/ClashForWindows](https://github.com/Ruflix/ClashForWindows)
+- 仓库里有汉化补丁
+- [Clash.for.Windows-0.20.39-mac.7z](https://tvv.tw/https://github.com/Ruflix/ClashForWindows/releases/download/CFW-v0.20.39/Clash.for.Windows-0.20.39-mac.7z)
+- [Clash.for.Windows-0.20.39-win-zh.7z](https://tvv.tw/https://github.com/Ruflix/ClashForWindows/releases/download/CFW-v0.20.39_CN/Clash.for.Windows-0.20.39-win-zh.7z)
+
+[Motrix](https://www.motrix.app/)
+- v1.8.19，支持 macOS 10.14，[mac intel版 加速下载](https://tvv.tw/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg)
 
 [IINA 视频播放](https://github.com/iina/iina)
 - v1.1.0
-  - [下载](https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
   - [加速下载](https://tvv.tw/https://github.com/iina/iina/releases/download/v1.1.0/IINA.v1.1.0.dmg)
 
 [MacZip压缩解压](https://maczip.cn/?locale=zh-CN)
 
 [app-cleaner-uninstaller-pro](https://xclient.info/s/app-cleaner-uninstaller-pro.html)
-  - v8.4.3支持 macOS 10.14
+  - v9.0.2支持 macOS 10.14
 
 [Android Studio](https://www.androiddevtools.cn/android-studio.html)
   - 2022之前的可支持 macOS 10.14

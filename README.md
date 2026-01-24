@@ -34,6 +34,8 @@ x-plore
 
 [TV](https://github.com/FongMi/TV)
 - 颜色样式修改pr: [pull/254](https://github.com/FongMi/TV/pull/254)
+- [v2.2.0](https://github.com/qlql765/TV)
+- [v2.2.0](https://github.com/watson1982/TV)
 - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
 - 应用商店代码编写参考：[watson1982/CatVodSpider](https://github.com/watson1982/CatVodSpider/blob/main/json/market.json)
 - 配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
@@ -123,24 +125,15 @@ Github raw、zip、clone、release 文件加速
 
 [gamedrive](https://gamedrive.org/)
 
-[pdalife](https://pdalife.com/)
+[pdalife 安卓](https://pdalife.com/)
 
-koyso直链【强烈推荐】
+[koyso 单机游戏下载【直链 强烈推荐】](https://koyso.com/)
 
-[嗜血印 下载](https://koyso.com/game/41)
-
-[koyso 单机游戏下载](https://koyso.com/)
-
-
-IGG game打包分享
-
-[LIST GAME « IGGGAMES](https://igg-games.com/list-9163969989-game.html)
+[IGG GAMES【多网盘】](https://igg-games.com/)
 
 [lust-n-dead](https://igg-games.com/lust-n-dead-%f0%9f%94%9e-free-download.html)
 
-fitgirl封装
-
-[FitGirl Repacks](https://fitgirl-repacks.site/)
+[FitGirl Repacks【仅磁力】](https://fitgirl-repacks.site/)
 
 模拟器游戏资源
 

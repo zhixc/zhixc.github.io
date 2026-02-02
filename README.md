@@ -16,11 +16,6 @@ x-plore
 [PPSSPP](https://www.ppsspp.org)
 - 开源高效率的 PSP 模拟器，世界上最好的 PSP 模拟器。支持安卓、IOS、MacOS、Windows系统
 
-[AetherSX2-backup/AetherSX2-builds](https://github.com/AetherSX2-backup/AetherSX2-builds)
-- AetherSX2 免费的安卓端 PS2 模拟器，高效率模拟 PS2 游戏。目前作者已经停止更新。可惜了。要求安卓 8.0 以上 64 位设备才能运行。
-- [v1.4 3060 加速下载](https://wget.la/https://raw.githubusercontent.com/AetherSX2-backup/AetherSX2-builds/master/alpha-2928-3060/13322-v1.4-3060.apk)
-- [v1.5 3668 加速下载](https://wget.la/https://raw.githubusercontent.com/AetherSX2-backup/AetherSX2-builds/master/alpha-3191-3668/13930-v1.5-3668.apk)
-
 [夏暖i 资源网盘](http://xianuani.ysepan.com/)
 
 [FlClash](https://github.com/chen08209/FlClash)
@@ -34,11 +29,13 @@ x-plore
 
 [TV](https://github.com/FongMi/TV)
 - 颜色样式修改pr: [pull/254](https://github.com/FongMi/TV/pull/254)
+- [v2.2.0](https://github.com/qlql765/TV)
+- [v2.2.0](https://github.com/watson1982/TV)
 - 收录了一些历史版本源码的仓库：[chengxue2020/BearTV](https://github.com/chengxue2020/BearTV)
 - 应用商店代码编写参考：[watson1982/CatVodSpider](https://github.com/watson1982/CatVodSpider/blob/main/json/market.json)
 - 配置编辑器：[https://zhixc.github.io/CatVodTVJsonEditor](https://zhixc.github.io/CatVodTVJsonEditor)
 - 自用接口配置：[https://wget.la/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json](https://wget.la/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json)
-- 多线路接口：[https://gitlab.com/ylede1/tvbox/-/blob/master/DC.json](https://gitlab.com/ylede1/tvbox/-/blob/master/DC.json)
+- 多线路接口：[https://gitlab.com/ylede1/tvbox/-/raw/master/DC.json](https://gitlab.com/ylede1/tvbox/-/raw/master/DC.json)
 
 
 --- 
@@ -123,24 +120,15 @@ Github raw、zip、clone、release 文件加速
 
 [gamedrive](https://gamedrive.org/)
 
-[pdalife](https://pdalife.com/)
+[pdalife 安卓](https://pdalife.com/)
 
-koyso直链【强烈推荐】
+[koyso 单机游戏下载【直链 强烈推荐】](https://koyso.com/)
 
-[嗜血印 下载](https://koyso.com/game/41)
-
-[koyso 单机游戏下载](https://koyso.com/)
-
-
-IGG game打包分享
-
-[LIST GAME « IGGGAMES](https://igg-games.com/list-9163969989-game.html)
+[IGG GAMES【多网盘】](https://igg-games.com/)
 
 [lust-n-dead](https://igg-games.com/lust-n-dead-%f0%9f%94%9e-free-download.html)
 
-fitgirl封装
-
-[FitGirl Repacks](https://fitgirl-repacks.site/)
+[FitGirl Repacks【仅磁力】](https://fitgirl-repacks.site/)
 
 模拟器游戏资源
 
@@ -184,7 +172,8 @@ pycharm
 ### win10用的软件
 
 > 注意：不要使用的软件版本，拖动文件到软件打开会卡死 如 IDEA2019.1.x、2020.3.x
-> 推荐使用的版本：2019.2.x、2025.2.x
+> 2021.1.x之前的版本全都不要使用了
+> 推荐使用的版本：2021.1.x之后的版本
 
 > win10 2022H2版 一些播放器使用记录：
 > QQ影音播放4k的视频文件播放一部分后再次打开视频播放会卡住，卡在上次播放的位置
